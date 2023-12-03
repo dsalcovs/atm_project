@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "atm-project-1"
+name = "atm-project"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Diego"]
 readme = "README.md"
-packages = [{include = "atm_project_1"}]
+packages = [{include = "atm_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
