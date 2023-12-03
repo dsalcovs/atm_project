@@ -1,0 +1,23 @@
+INFO:root:Successful Authorization
+INFO:root:Logout
+INFO:root:Successful Authorization
+WARNING:root:Not multiple of 20
+INFO:root:Withdrawal successful
+INFO:root:Withdrawal successful
+INFO:root:Deposit successful
+WARNING:root:Not multiple of 20
+INFO:root:Withdrawal successful
+INFO:root:Successful Authorization
+INFO:root:Deposit successful
+INFO:root:Withdrawal successful
+WARNING:root:Empty ATM
+INFO:root:Successful Authorization
+INFO:root:Withdrawal successful
+INFO:root:Overdraft
+WARNING:root:Already Overdrawn
+INFO:root:Deposit successful
+INFO:root:Withdrawal successful
+INFO:root:Withdrawal successful
+INFO:root:Overdraft
+INFO:root:Deposit successful
+INFO:root:Withdrawal successful
